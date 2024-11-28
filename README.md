@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mariano (he/him)!
+# 👋 Hi, I'm Mariano!
 
 I am a **Machine Learning and Data Science Specialist** with a Ph.D. in Computer Science and over 8 years of experience in Machine learning and AI. My main projects focus on research on:  
 - **Large Language Models (LLMs)**  
